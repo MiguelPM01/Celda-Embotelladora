@@ -30,4 +30,5 @@ se utilizan para optimizar los procesos de preparación de los productos, fabric
 
 ## Desarrollo 
 - [Archivo de Simulación en RoboDK](https://github.com/MiguelPM01/Celda-Embotelladora/tree/main/Archivo%20de%20simulaci%C3%B3n%20en%20RoboDK)
+- [Librerías utilizadas](https://github.com/MiguelPM01/Celda-Embotelladora/tree/main/Librerias%20utilizadas)
 
