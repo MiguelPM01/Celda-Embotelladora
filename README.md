@@ -29,5 +29,5 @@ se utilizan para optimizar los procesos de preparación de los productos, fabric
 - Computadora o laptop con 8 gb de RAM recomendable.
 
 ## Desarrollo 
-[Archivo de Simulación en RoboDK](https://github.com/MiguelPM01/Celda-Embotelladora/tree/main/Archivo%20de%20simulaci%C3%B3n%20en%20RoboDK)
+- [Archivo de Simulación en RoboDK](https://github.com/MiguelPM01/Celda-Embotelladora/tree/main/Archivo%20de%20simulaci%C3%B3n%20en%20RoboDK)
 
